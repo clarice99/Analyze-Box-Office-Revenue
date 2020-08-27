@@ -36,3 +36,4 @@ The Day of Release too has an impact on the Revenue especially its observed that
 
 ![img6](https://github.com/clarice99/Analyze-Box-Office-Revenue/blob/master/images/release%20day%20impact.PNG)
 
+Hope Ya'll liked it ;)
