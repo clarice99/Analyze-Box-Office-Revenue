@@ -2,8 +2,7 @@
 In this project, Analysis of Revenue of a Movie with respect to their release date and day is done!
 Box Office has a greater impact on the release days!!
 The dataset is taken from TMDB(The Movie DataBase)
-
-*image*
+![img](https://github.com/clarice99/Analyze-Box-Office-Revenue/blob/master/images/tmdb.PNG)
 Also the relationship between film revenue and budget is done!
 *image*
 As we know Posters are audience pullers!!! so we cant imagine a movie release without a homepage!! and yes it does have an impact
