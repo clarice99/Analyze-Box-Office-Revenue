@@ -31,7 +31,7 @@ Its also seen that runtime between 2-3 hrs has greater collection of revenue com
 ![img5](https://github.com/clarice99/Analyze-Box-Office-Revenue/blob/master/images/runtime%20n%20length%20of%20hrs.PNG)
 
 
-The Day of Release too has an impact on the Revenue
+The Day of Release too has an impact on the Revenue especially its observed that(Tuesday collects more revenue compared to Friday)
 
 
 ![img6](https://github.com/clarice99/Analyze-Box-Office-Revenue/blob/master/images/release%20day%20impact.PNG)
