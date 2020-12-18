@@ -25,7 +25,7 @@ Also I displayed Number of Films and Revenue per Release!!
 ![img4](https://github.com/clarice99/Analyze-Box-Office-Revenue/blob/master/images/no.of%20films%20n%20revenue.PNG)
 
 
-Its also seen that runtime between 2-3 hrs has greater collection of revenue compared to runtime of 3+ hrs!!
+Its also seen that runtime between 2-3 hrs has greater collection of revenue compared to runtime of 3+ hrs!!.
 
 
 ![img5](https://github.com/clarice99/Analyze-Box-Office-Revenue/blob/master/images/runtime%20n%20length%20of%20hrs.PNG)
@@ -39,4 +39,4 @@ The Day of Release too has an impact on the Revenue especially its observed that
 Hope Ya'll liked it ;)
 
 
-Reference : Coursera
+Reference : Coursera...
